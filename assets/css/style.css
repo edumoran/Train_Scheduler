@@ -1,0 +1,29 @@
+body {
+    background:url(../images/funky-lines.png);
+}
+
+.jumbotron {
+    color: rgb(34, 34, 34);
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    padding-top: 20px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 20px;
+}
+
+.box-shadow--16dp {
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2)
+}
+
+.form-group {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#addInfo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
